@@ -20,3 +20,4 @@
 
 حقوق:
 النصوص مأخوذة من ترجمة Van Dyck على ebible.org — المرجع: https://ebible.org/arb-vd/
+Branch: reading-plan-2026 — created for PR review
